@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for i *)",
+      "Read(//dev/**)",
+      "Bash(find \"/d/Projets/My project\" -maxdepth 1 -iname \"AGENTS.md\"; echo \"---UI dir---\"; ls \"/d/Projets/My project/Assets/Scripts/UI\"; echo \"---memory---\"; find \"/c/Users/0503490X/.claude/projects/d--Projets-My-project/memory\" -type f 2>/dev/null)",
+      "Read(//c/Users/0503490X/.claude/projects/d--Projets-My-project/memory/**)",
+      "Bash(grep -n \"Assembly-CSharp::Train$\" \"/d/Projets/My project/Assets/Scenes/SampleScene.unity\")"
+    ]
+  }
+}
