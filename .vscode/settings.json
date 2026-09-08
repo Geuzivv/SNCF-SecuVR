@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "SNCF - SécuVR.slnx",
+    "dotnet.defaultSolution": "SNCF-SecuVR.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
